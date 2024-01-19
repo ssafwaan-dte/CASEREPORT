@@ -26,9 +26,9 @@ To generate MPSC frequent outage and non-frequent outage case reports:
 python create_reports.py
 ```
 
-To generate non-MPSC case summary sheet:
+Alternatively, run the batch file if not in active environment:
 ```bat
-python create_non_mpsc_sheet.py
+create_reports.bat
 ```
 ---
 ### On missing case premises
