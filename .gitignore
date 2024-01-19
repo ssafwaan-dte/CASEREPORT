@@ -1,0 +1,11 @@
+*.csv
+*.xlsx
+*.docx
+~$*.docx
+.env
+venv/
+ext/
+old/
+fo-reports/
+non-fo-reports/
+non-mpsc/

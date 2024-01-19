@@ -1,0 +1,11 @@
+cx-Oracle==8.3.0
+databricks-sql-connector==2.5.0
+hdbcli==2.16.21
+numpy==1.24.2
+openpyxl==3.1.2
+pandas==1.5.3
+python-docx==0.8.11
+python-dotenv==1.0.0
+pywin32==306
+sqlalchemy==1.4.48
+sqlalchemy-hana==0.5.0
